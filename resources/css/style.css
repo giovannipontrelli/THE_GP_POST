@@ -1,0 +1,52 @@
+.navbar{
+    background-color: rgb(218, 199, 121);
+  }
+.footercust{
+background-color: rgb(218, 199, 121) !important;
+}
+
+  .navbar-custom{
+    margin: 5vh 10vh 0vh 10vh ;
+    background-color: rgba(218, 199, 121, 0.532);
+    backdrop-filter: blur(15px);
+    border: 2px solid #198754;
+    border-radius: 20px;
+}
+.transition{
+    transition: 2s;
+}
+
+.backgroundnav{
+    transition: .1s;
+    
+}
+
+.backgroundnav:hover{
+    transform: scale(1.1);
+    color: rgb(249, 249, 249) !important;
+    background-color: rgb(125, 187, 144);
+}
+    h1{
+        font-family: 'Edu TAS Beginner', cursive;
+        
+    }
+
+    h2{
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 50px;
+    }
+
+    p{
+        font-family: 'Noto Sans Kawi', sans-serif;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .customcard{
+        border: 7px double #198754;
+    box-shadow: 12px 7px 7px #dedede;
+    }
+
+    .customcard:hover{
+        transform: scale(1.1);
+
+    }
